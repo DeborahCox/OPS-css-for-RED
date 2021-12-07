@@ -78,7 +78,9 @@ body {
  overflow-wrap:break-word;
  position:relative;
  background-color:#202224;
- background-image:url(../assets/backgrounds/Dark-down.svg);
+ background-image:url("https://cdn.statically.io/gh/DeborahCox/OPS-css-for-RED/main/Dark-down.svg");
+ font-size: 12px;
+ line-height: 1.6;
 }
 h1,
 h2,
@@ -98,7 +100,7 @@ h3 a,
 h4 a,
 h5 a,
 h6 a {
- color:#83e4a6
+ color:#981a1a
 }
 h1,
 h2 {
@@ -117,7 +119,7 @@ a {
  text-decoration:none
 }
 a:hover {
- color:#c7fada
+ color:#ba4848
 }
 svg|a {
  fill:#f0f0f0
@@ -499,7 +501,7 @@ table.box2 {
 }
 #extra5,
 #logo a {
- background:url("https://raw.githubusercontent.com/DeborahCox/OPS-css-for-RED/main/logo.png") 100% no-repeat
+ background:url("https://cdn.statically.io/gh/DeborahCox/OPS-css-for-RED/main/logo.png") 100% no-repeat
 }
 #logo>a {
  background-size:200px;
@@ -527,7 +529,7 @@ table.box2 {
 #menu>ul a:hover,
 #userinfo_minor:hover a:hover,
 #userinfo_username:hover a:hover {
- background-color:#c7fada
+ background-color:#ffb3b3
 }
 #nav_index {
  display:none
@@ -544,7 +546,7 @@ table.box2 {
  text-align:center;
  text-overflow:ellipsis;
  white-space:nowrap;
- width:100px
+ width:84px
 }
 .linkbox,
 .linkbox .center {
@@ -593,31 +595,31 @@ table.box2 {
  width:100%
 }
 #menu li:nth-child(2) {
- background-color:#0a3a2e
+ background-color:#481a1a
 }
 #menu li:nth-child(3) {
- background-color:#0c4a3b
+ background-color:#581a1a
 }
 #menu li:nth-child(4) {
- background-color:#0f5b48
+ background-color:#681a1a
 }
 #menu li:nth-child(5) {
- background-color:#126c56
+ background-color:#781a1a
 }
 #menu li:nth-child(6) {
- background-color:#157d63
+ background-color:#881a1a
 }
 #menu li:nth-child(7) {
- background-color:#188e70
+ background-color:#981a1a
 }
 #menu li:nth-child(8) {
- background-color:#1a9f7d
+ background-color:#a81a1a
 }
 #menu li:nth-child(9) {
- background-color:#1daf8b
+ background-color:#b81a1a
 }
 #userinfo_username {
- background-color:#20c098;
+ background-color:#c81a1a;
  right:50px
 }
 #menu {
@@ -1403,13 +1405,13 @@ blockquote {
   display:none;
   line-height:32px;
   padding:0 8px;
-  width:150px
+  width:134px
  }
  #userinfo_minor:hover:before {
   margin-left:100px
  }
  #userinfo_minor {
-  background-color:#23d1a5;
+  background-color:#d81a1a;
   border-radius:0 5px 0 0;
   right:0
  }
@@ -1427,10 +1429,10 @@ blockquote {
   right:0
  }
  #userinfo_minor:hover {
-  background-color:#189273
+  background-color:#a80606
  }
  #userinfo_username:hover {
-  background-color:#16866a
+  background-color:#c65353
  }
  .settings_sidebar {
   margin-left:8px
