@@ -78,7 +78,7 @@ body {
  overflow-wrap:break-word;
  position:relative;
  background-color:#202224;
- background-image:url("https://cdn.statically.io/gh/DeborahCox/OPS-css-for-RED/main/Dark-down.svg");
+ background-image:url("https://cdn.jsdelivr.net/gh/DeborahCox/OPS-css-for-RED/Dark-down.svg");
  font-size: 12px;
  line-height: 1.6;
 }
@@ -393,7 +393,7 @@ table.box2 {
  display:table
 }
 .autocomplete-suggestions {
- background-color:#f0f0f0;
+ background-color:##252f32;
  border:none;
  color:#26282e;
  margin-top:4px
@@ -403,7 +403,7 @@ table.box2 {
  padding:0 8px
 }
 .autocomplete-suggestions .autocomplete-suggestion.autocomplete-selected {
- background-color:#c7fada
+ background-color:hsla(0,0%,100%,.2)
 }
 .autocomplete-suggestions .autocomplete-suggestion strong {
  color:#12a1e3
@@ -501,7 +501,7 @@ table.box2 {
 }
 #extra5,
 #logo a {
- background:url("https://cdn.statically.io/gh/DeborahCox/OPS-css-for-RED/main/logo.png") 100% no-repeat
+ background:url("https://cdn.jsdelivr.net/gh/DeborahCox/OPS-css-for-RED/logo.png") 100% no-repeat
 }
 #logo>a {
  background-size:200px;
